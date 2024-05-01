@@ -1,5 +1,6 @@
 package oopExam;
 
 public class AppleWatchSeries5 {
-	// create a method
+	public static void main(String[]args){
+		system.out.println("this is a main method")
 }
